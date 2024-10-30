@@ -1,2 +1,0 @@
-import"./DN7188LG.js";import{k as f,b as u,G as i,p as b,I as d}from"./CzoN8ZlC.js";const m=Symbol.for("nuxt:client-only"),_=f({name:"ClientOnly",inheritAttrs:!1,props:["fallback","placeholder","placeholderTag","fallbackTag"],setup(p,{slots:e,attrs:r}){const l=u(!1);return i(()=>{l.value=!0}),b(m,!0),a=>{var t;if(l.value)return(t=e.default)==null?void 0:t.call(e);const n=e.fallback||e.placeholder;if(n)return n();const c=a.fallback||a.placeholder||"",o=a.fallbackTag||a.placeholderTag||"span";return d(o,r,c)}}});export{_};
-//# sourceMappingURL=B5_h2jd3.js.map

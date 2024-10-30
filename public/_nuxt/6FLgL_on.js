@@ -1,2 +1,0 @@
-import{_ as r}from"./DOXczUm3.js";import{u as o}from"./DN7188LG.js";import{k as a,I as t,R as s,H as i}from"./CzoN8ZlC.js";import"./CEVRfAhG.js";const n={class:"relative mx-5 py-5 px-4 border border-gray-400 dark:border-gray-700"},u=a({__name:"verify-failed",setup(m){return o({title:"Verify Failed"}),(c,d)=>{const e=r;return i(),t("div",n,[s(e,{theme:"danger",message:"Verification failed. Link expired or other error."})])}}});export{u as default};
-//# sourceMappingURL=6FLgL_on.js.map
